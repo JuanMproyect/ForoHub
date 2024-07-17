@@ -41,36 +41,6 @@ Para este proyecto se utilizaron las siguientes tecnologías:
 - Validation
 - Spring Security
 
-
-# Foro Hub
-
-Foro Hub es una aplicación web de foro desarrollada con Spring Boot, diseñada para gestionar tópicos de discusión. Esta aplicación incluye funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar) y utiliza JWT para autenticación y autorización.
-
-## Características
-
-- **CRUD de Tópicos**: Crear, leer, actualizar y eliminar tópicos.
-- **Autenticación y Autorización**: Implementada con JWT.
-- **Validaciones**: Validaciones de entrada de datos utilizando Jakarta Bean Validation.
-- **Swagger**: Documentación de la API generada automáticamente.
-
-## Dependencias Utilizadas
-
-- Swagger
-- Lombok
-- Spring Web
-- Spring Boot DevTools
-- Spring Data JPA
-- Flyway Migration
-- MySQL Driver
-- Validation
-- Spring Security
-
-## Requisitos Previos
-
-- JDK 17 o superior
-- Maven 3.8.1 o superior
-- MySQL 8.0 o superior
-
 ## Configuración del Proyecto
 
 1. Clona el repositorio:
